@@ -5,7 +5,7 @@
 - A Customer transacting on a recommended merchant within 30 days of recommendation date is tagged as a successful activation.
 - However, a Customer could have transacted with merchants even though it was not recommended by Amex (oragnic activation). Think about all the shops you visit without these shops being marketed to you
 
-## Problem Statemene:
+## Problem Statement:
 The goal is to find merchants for each customer that have maximum 'incremental activations' (and hence minimum organic activations). Incremental Activations means activations on merchants that the Customer would not have discovered otherwise, unless recommended.
 
 ## Evaluation Criteria:
