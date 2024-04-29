@@ -18,6 +18,7 @@ The goal is to find merchants for each customer that have maximum 'incremental a
   For each Customer x Merchant combination in Round 1 submission data, calculate a score such that Incremental Activation Rate on Top 10 merchants by prediction for each Customer (collated at a dataset level) is maximized. The final output file to be uploaded should have 3 columns - Customer, Merchant & predicted_score
   
 
+  ## Additional information
 - Participants will train their model using labeled Training Data
 - Participants are free to split the training data into Train & Out-of-sample/In-time data into whatever ratio they deem fit. They are also free to use any sampling technique on Train data*
 - An evaluation custom code (in Python) to calculate the " Incremental Activation Rate (at dataset level) on Top 10 merchants (by prediction) for each Customer" would be provided to participants to run on their training/out-of-sample data scores to mimic the exact evaluation process that will run on their submitted Round 1 data.
