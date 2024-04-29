@@ -14,7 +14,7 @@ The goal is to find merchants for each customer that have maximum 'incremental a
 - Incremental Activation rate = Recommended Activation Rate minus Not-Recommended Activation Rate.
 - Activation rate = No. of Activations/No. of Recommendations, at Customer x Merchant level.
 
-  ## Expected outcome:
+## Expected outcome:
   For each Customer x Merchant combination in Round 1 submission data, calculate a score such that Incremental Activation Rate on Top 10 merchants by prediction for each Customer (collated at a dataset level) is maximized. The final output file to be uploaded should have 3 columns - Customer, Merchant & predicted_score
   
 
