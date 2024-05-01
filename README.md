@@ -28,3 +28,7 @@ The goal is to find merchants for each customer that have maximum 'incremental a
 - Scored Round 1 submission data should have only 3 columns and the unique Customer x Merchant count should be 12,604,600.
 - The top 15 Teams with the Highest " Incremental Activation Rate on Top 10 merchants by a prediction for each Customer (Leaderboard + Closed evaluation datasets)" will be shortlisted for Round 2.
 - Train data has already been sampled once before sharing, hence will contain < 100 merchants per Customer
+
+
+## Data
+  Data is stored in drive: https://drive.google.com/drive/folders/1Sv_FEoe8uO-wek_0sroEKqASGJz2fxEw?usp=sharing
